@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1733598 on Wed Dec 14 22:35:39 MST 2016
+# IP Build 1731160 on Wed Dec 14 23:47:21 MST 2016
+# Start of session at: Wed Feb 07 15:24:49 2024
+# Process ID: 15524
+# Current directory: D:/Work/College/GUC/S Semester 5/Smart Traffic System/Full System/DSD Project/DSD project/project_2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16540 D:\Work\College\GUC\S Semester 5\Smart Traffic System\Full System\DSD Project\DSD project\project_2\project_2.xpr
+# Log file: D:/Work/College/GUC/S Semester 5/Smart Traffic System/Full System/DSD Project/DSD project/project_2/vivado.log
+# Journal file: D:/Work/College/GUC/S Semester 5/Smart Traffic System/Full System/DSD Project/DSD project/project_2\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/Work/College/GUC/S Semester 5/Smart Traffic System/Full System/DSD Project/DSD project/project_2/project_2.xpr}
+INFO: [ProjectBase 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter.
+Current project path is 'D:/Work/College/GUC/S Semester 5/Smart Traffic System/Full System/DSD Project/DSD project/project_2'
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2016.4/data/ip'.
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Feb 07 15:25:23 2024...

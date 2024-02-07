@@ -1,0 +1,16 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../project_2.srcs/sources_1/new/Counter.vhd"
+vhdl xil_defaultlib  "../../../project_2.srcs/sources_1/new/BuzzTimeCounter.vhd"
+vhdl xil_defaultlib  "../../../project_2.srcs/sources_1/new/BuzzerCtrl.vhd"
+vhdl xil_defaultlib  "../../../project_2.srcs/sources_1/new/TriggerGen.vhd"
+vhdl xil_defaultlib  "../../../project_2.srcs/sources_1/new/Traffic_system.vhd"
+vhdl xil_defaultlib  "../../../project_2.srcs/sources_1/new/TimeDelay.vhd"
+vhdl xil_defaultlib  "../../../project_2.srcs/sources_1/new/OR_Gate.vhd"
+vhdl xil_defaultlib  "../../../project_2.srcs/sources_1/new/CondensedUltrasonicFile.vhd"
+vhdl xil_defaultlib  "../../../project_2.srcs/sources_1/new/Traffic_system_structural.vhd"
+vhdl xil_defaultlib  "../../../project_2.srcs/sources_1/new/Top_UltrasonicSensors.vhd"
+vhdl xil_defaultlib  "../../../project_2.srcs/sources_1/new/Lcd_controller.vhd"
+vhdl xil_defaultlib  "../../../project_2.srcs/sources_1/new/Top.vhd"
+
+# Do not sort compile order
+nosort

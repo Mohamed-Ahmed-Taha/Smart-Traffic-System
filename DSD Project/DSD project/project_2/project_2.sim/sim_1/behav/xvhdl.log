@@ -1,0 +1,24 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Work/College/GUC/S Semester 5/Smart Traffic System/Full System/DSD Project/DSD project/project_2/project_2.srcs/sources_1/new/Counter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Counter
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Work/College/GUC/S Semester 5/Smart Traffic System/Full System/DSD Project/DSD project/project_2/project_2.srcs/sources_1/new/BuzzTimeCounter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity BuzzTimeCounter
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Work/College/GUC/S Semester 5/Smart Traffic System/Full System/DSD Project/DSD project/project_2/project_2.srcs/sources_1/new/BuzzerCtrl.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity BuzzerCtrl
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Work/College/GUC/S Semester 5/Smart Traffic System/Full System/DSD Project/DSD project/project_2/project_2.srcs/sources_1/new/TriggerGen.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity TriggerGen
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Work/College/GUC/S Semester 5/Smart Traffic System/Full System/DSD Project/DSD project/project_2/project_2.srcs/sources_1/new/Traffic_system.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Traffic_signal
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Work/College/GUC/S Semester 5/Smart Traffic System/Full System/DSD Project/DSD project/project_2/project_2.srcs/sources_1/new/TimeDelay.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity TimeDelay
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Work/College/GUC/S Semester 5/Smart Traffic System/Full System/DSD Project/DSD project/project_2/project_2.srcs/sources_1/new/OR_Gate.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity OR_Gate
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Work/College/GUC/S Semester 5/Smart Traffic System/Full System/DSD Project/DSD project/project_2/project_2.srcs/sources_1/new/CondensedUltrasonicFile.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity HCRS04
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Work/College/GUC/S Semester 5/Smart Traffic System/Full System/DSD Project/DSD project/project_2/project_2.srcs/sources_1/new/Traffic_system_structural.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Traffic_system_structural
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Work/College/GUC/S Semester 5/Smart Traffic System/Full System/DSD Project/DSD project/project_2/project_2.srcs/sources_1/new/Top_UltrasonicSensors.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Top_UltrasonicSensors
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Work/College/GUC/S Semester 5/Smart Traffic System/Full System/DSD Project/DSD project/project_2/project_2.srcs/sources_1/new/Lcd_controller.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Lcd_controller
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Work/College/GUC/S Semester 5/Smart Traffic System/Full System/DSD Project/DSD project/project_2/project_2.srcs/sources_1/new/Top.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Top

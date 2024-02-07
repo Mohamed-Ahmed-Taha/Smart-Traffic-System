@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1733598 on Wed Dec 14 22:35:39 MST 2016
+# IP Build 1731160 on Wed Dec 14 23:47:21 MST 2016
+# Start of session at: Mon Dec 18 16:13:35 2023
+# Process ID: 11388
+# Current directory: D:/Work/College/GUC/S Semester 5/Smart Traffic System/Full System/DSD Project/DSD project/project_2/project_2.runs/synth_1
+# Command line: vivado.exe -log Top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Top.tcl
+# Log file: D:/Work/College/GUC/S Semester 5/Smart Traffic System/Full System/DSD Project/DSD project/project_2/project_2.runs/synth_1/Top.vds
+# Journal file: D:/Work/College/GUC/S Semester 5/Smart Traffic System/Full System/DSD Project/DSD project/project_2/project_2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Top.tcl -notrace
