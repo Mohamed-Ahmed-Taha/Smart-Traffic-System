@@ -1,9 +1,9 @@
 # Smart-Traffic-System
-A traffic light system for a 4 way cross road with smart detection of red light crossing and AD screen.
+A traffic light system for a 4-way crossroad with smart detection of red light crossing and AD screen.
 
-This project was a required project for the Degital Systems Design (DSD) course taught by Professor Mohamed Abdelghany in the German University in Cairo (GUC).
+This project was a required project for the Digital Systems Design (DSD) course taught by Professor Mohamed Abdelghany at the German University in Cairo (GUC).
 
-The Smart Traffic System was implemnted using the BASYS3 FPGA and coded in VHDL. The system comprised of multiple subsytems with each using certain hardware components.
+The Smart Traffic System was implemented using the BASYS3 FPGA and coded in VHDL. The system is comprised of multiple subsystems with each using certain hardware components.
 
 ## Subsystems present:
 - Traffic contorl system using 120 Volt LED indicators.
