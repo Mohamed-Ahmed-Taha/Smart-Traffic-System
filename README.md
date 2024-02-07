@@ -10,4 +10,4 @@ Traffic control system using 220 Volt LED indicators.
 Illegal red light crossing detection and alarm using ultra-sonic sensors and buzzers.
 Electronic AD billboard using LCD Screen.
 
-A more detailed project description of all the subsystems and how they work and part of the design process can be found in a report and a complementary video explaining the whole project in detail is uploaded Google Drive with the following link. https://drive.google.com/drive/folders/1YDW5_ExQPoYUg2baYYNYR4MSe11RMSdW?usp=drive_link
+A more detailed project description of all the subsystems and how they work and part of the design process can be found in a report and a complementary video explaining the whole project in detail is uploaded to Google Drive with the following link. https://drive.google.com/drive/folders/1YDW5_ExQPoYUg2baYYNYR4MSe11RMSdW?usp=drive_link
